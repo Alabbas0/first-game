@@ -1,0 +1,12 @@
+Simple Shooting Game
+Welcome to the Simple Shooting Game! This is a basic 2D shooting game built using Python and Tkinter. In this game, you control a player character who can move around the screen and shoot bullets to destroy enemies. The goal is to score as many points as possible before the game ends.
+
+Features
+Player Movement: Move the player using the W, A, S, and D keys.
+Shooting: Aim and shoot bullets towards the mouse cursor.
+Enemies: Enemies spawn periodically and move towards the player.
+Scoring: Earn points by shooting enemies.
+Health: The player has a limited number of lives. The game ends when the player’s health reaches zero.
+Requirements
+Python 3.x
+Tkinter
